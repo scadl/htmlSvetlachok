@@ -1,0 +1,68 @@
+body{
+    font-family: sans-serif;
+}
+#menuBl{
+    background:url('fon_menu.bmp');
+}
+/*#menuBl tr td:nth-child(1){
+    width: 34px;
+    height: 34px;	
+    background: url('Light-box-off_comb.png');
+}
+#menuBl tr td:nth-child(1):hover{
+    background: url('MElLantern.gif');
+}*/
+#menuBl tr td:nth-child(2) a{
+    width: 140px;
+    height: 29px;	
+    cursor: pointer;	
+    display: block;
+}
+#m1el{		
+    background: url('menu1p-off.png');
+}
+#m1el:hover{
+    background: url('menu1p-on.png');
+}
+#m2el{
+    background: url('menu2p-off.png');
+}
+#m2el:hover{
+    background: url('menu2p-on.png');
+}	
+#m3el{
+    background: url('menu3p-off.png');
+}
+#m3el:hover{
+    background: url('menu3p-on.png');
+}	
+#m4el{
+    background: url('menu4p-off.png');
+}
+#m4el:hover{
+    background: url('menu4p-on.png');
+}	
+#m5el{
+    background: url('menu5p-off.png');
+}
+#m5el:hover{
+    background: url('menu5p-on.png');
+}	
+#m6el{
+    background: url('menu6p-off.png');
+}
+#m6el:hover{
+    background: url('menu6p-on.png');
+}	
+#m7el{
+    background: url('menu7p-off.png');
+}
+#m7el:hover{
+    background: url('menu7p-on.png');
+}	
+#m8el{
+    background: url('menu8p-off.png');
+}
+#m8el:hover{
+    background: url('menu8p-on.png');
+}
