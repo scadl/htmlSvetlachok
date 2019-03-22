@@ -1,0 +1,14 @@
+*.pyc
+*~
+
+__pycache__
+myvenv
+_Tech
+_tbkp
+/static
+
+.DS_Store
+.idea
+secret_key.txt
+
+Desktop.ini
